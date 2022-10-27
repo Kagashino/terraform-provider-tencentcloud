@@ -7,5 +7,5 @@ variable "storage_type" {
 }
 
 variable "instance_type" {
-  default = "S3.SMALL1"
+  default = "SA2.SMALL1"
 }
